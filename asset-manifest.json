@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ValleReque/static/css/main.5be24939.css",
+    "main.js": "/ValleReque/static/js/main.5fd9c39a.js",
+    "static/js/453.e30fc4c6.chunk.js": "/ValleReque/static/js/453.e30fc4c6.chunk.js",
+    "index.html": "/ValleReque/index.html",
+    "main.5be24939.css.map": "/ValleReque/static/css/main.5be24939.css.map",
+    "main.5fd9c39a.js.map": "/ValleReque/static/js/main.5fd9c39a.js.map",
+    "453.e30fc4c6.chunk.js.map": "/ValleReque/static/js/453.e30fc4c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be24939.css",
+    "static/js/main.5fd9c39a.js"
+  ]
+}
